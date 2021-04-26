@@ -25,3 +25,7 @@ h1 {
     border-color: black;
     padding: 20px;
 }
+#usernameWarning {
+    color: red;
+    font-size: 100px;
+}
