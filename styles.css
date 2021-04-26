@@ -1,0 +1,31 @@
+h1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.test {
+    margin: 20px;
+    background-color: lightgreen;
+    padding: -20px;
+    border-style: solid;
+    padding: 30px;
+}
+.label {
+    display: flex;
+    padding: 5px;
+}
+
+.formulier {
+    display: flex;
+    background-color: grey;
+    justify-content: center;
+    align-items: center;
+    border-style: solid;
+    border-color: black;
+    padding: 20px;
+}
+#usernameWarning {
+    color: red;
+    font-size: 100px;
+}
